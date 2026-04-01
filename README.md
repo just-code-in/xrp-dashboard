@@ -1,8 +1,8 @@
-# XRP Dashboard
-
-A GitHub-ready Next.js dashboard for monitoring XRP price action, ecosystem news, regulatory developments, selected social/X posts, and curated Polymarket signals.
+# XRPDashI
 
 ## What this is
+
+A Next.js dashboard for monitoring XRP price action, ecosystem news, regulatory developments, selected social/X posts, and curated Polymarket signals.
 
 This is a standalone web app originally built in Coral/OpenClaw and then packaged so it can be:
 
