@@ -1,4 +1,4 @@
-# XRPDashI
+# XRPDash
 
 ## What this is
 
